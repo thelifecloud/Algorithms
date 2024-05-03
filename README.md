@@ -1,2 +1,2 @@
-# Algorithms
-Projects: spring 2024
+# 2024 Projects
+
